@@ -1,0 +1,27 @@
+body {
+  background-color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  width: 100%;
+  max-width: 631px;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 46px;
+
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.titleBlock {
+  
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  
+}
